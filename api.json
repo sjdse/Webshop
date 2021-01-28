@@ -1,0 +1,62 @@
+[
+        {
+            "item":"Black Plastic Chair",
+            "description":"A black plastic chair.",
+            "image":"http://localhost/Webshop/img/chair-1.jpg",
+            "price":5
+        },
+        {
+            "item":"Purple Plastic Chair",
+            "description":"A purple plastic chair.",
+            "image":"http://localhost/Webshop/img/chair-2.jpg",
+            "price":10
+        },
+        {
+            "item":"Gray chair",
+            "description":"Chair with a metal frame.",
+            "image":"http://localhost/Webshop/img/chair-3.jpg",
+            "price":15
+        },
+        {
+            "item":"Hammer",
+            "description":"A normal hammer.",
+            "image":"http://localhost/Webshop/img/hammer-1.jpg",
+            "price":20
+        },
+        {
+            "item":"White bike helmet",
+            "description":"A bike helmet that is white.",
+            "image":"http://localhost/Webshop/img/bike-helm-2.png",
+            "price":25
+        },
+        {
+            "item":"Black bike helmet",
+            "description":"A bike helmet that is black.",
+            "image":"http://localhost/Webshop/img/bike-helm-1.jpg",
+            "price":30
+        },
+        {
+            "item":"Kitchen knife",
+            "description":"A kitchen knife with a wooden handle.",
+            "image":"http://localhost/Webshop/img/kitchen-knife-1.png",
+            "price":35
+        },
+        {
+            "item":"Another kitchen knife",
+            "description":"A kitchen knife with a plastic handle",
+            "image":"http://localhost/Webshop/img/kitchen-knife-2.jpg",
+            "price":40
+        },
+        {
+            "item":"Small Metal Table",
+            "description":"Small table made out of metal.",
+            "image":"http://localhost/Webshop/img/small-table-1.jpg",
+            "price":45
+        },
+        {
+            "item":"Wood Coffee Table",
+            "description":"Small coffee table made out of wood.",
+            "image":"http://localhost/Webshop/img/small-table-2.jpg",
+            "price":50
+        }
+]
